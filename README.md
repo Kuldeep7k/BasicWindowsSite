@@ -1,3 +1,2 @@
-# mywindowsSite
+# BasicWindowsSite
 
-https://eyepatch7k.github.io/mywindowsSite/
